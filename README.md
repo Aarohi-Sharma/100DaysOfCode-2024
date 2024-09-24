@@ -1,27 +1,18 @@
-# Questions for Day 89 – (18/09/2024)
+# Questions for Day 93 – (22/09/2024)
 # DSA Practice: Solving DSA Problems
 
 
 **Solve them, check their test cases and submit them in the DSA folder of the GitHub repo.**
 
-Q1. [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/)
+Q1. [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/)
 
-Q2. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)
+Q2. [Traverse All Edges And Vertices](https://www.geeksforgeeks.org/problems/castle-run3644/1)
 
 
-# Questions for Day 90 – (19/09/2024)
+# Questions for Day 94 – (23/09/2024)
 # DSA Practice: Solving DSA Problems
 
 
-Q1. [Euler Circuit in an Undirected Graph](https://www.geeksforgeeks.org/problems/euler-circuit-in-a-directed-graph/1)
+Q1. [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/)
 
-Q2. [Eulerian Path in an Undirected Graph](https://www.geeksforgeeks.org/problems/eulerian-path-in-an-undirected-graph5052/1)
-
-
-# Questions for Day 91 – (20/09/2024)
-# DSA Practice: Solving DSA Problems
-
-
-Q1. [Doctor Strange](https://www.geeksforgeeks.org/problems/doctor-strange2206/1)
-
-Q2. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)
+Q2. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)
